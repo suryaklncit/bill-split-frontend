@@ -77,25 +77,7 @@ export default function LandingPage() {
           </div>
         </div>
 
-        {/* Logo Cloud */}
-        <div>
-          <div className="mx-auto max-w-7xl py-16 px-4 sm:px-6 lg:px-8">
-            <p className="text-center text-sm font-semibold uppercase tracking-wide text-gray-500">
-              Checkout the article on
-            </p>
-            <div className="mt-6">
-              <div className="flex justify-center">
-                <a
-                  href="https://rushilpatel.hashnode.dev/introducing-splitbill-split-bills-easily-with-friends"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src={HashNodeLogo} alt="hashnode" className="max-w-xs" />
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
+       
 
         {/* Alternating Feature Sections */}
         <div className="relative overflow-hidden pt-16 pb-32">
@@ -219,7 +201,7 @@ export default function LandingPage() {
               <div className="mt-6 flex w-fit items-center justify-between">
                 <div>
                   <a
-                    href="https://github.com/rushilp2311"
+                    href="https://github.com/suryaklncit"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -237,7 +219,7 @@ export default function LandingPage() {
                   </a>
                 </div>
                 <a
-                  href="https://rushilpatel.hashnode.dev/"
+                  href="https://github.com/suryaklncit"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -247,7 +229,7 @@ export default function LandingPage() {
             </div>
             <div>
               <a
-                href="https://townhall.hashnode.com/build-with-linode-hackathon-june-2022?source=hashnode_countdown"
+                href="https://github.com/suryaklncit"
                 target="_blank"
                 rel="noreferrer"
                 className="flex w-full justify-end"
